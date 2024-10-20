@@ -65,6 +65,4 @@ Real-Time-Object-Detection/
 
 You can install the required packages using pip as mentioned in the installation steps.
 
-## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
